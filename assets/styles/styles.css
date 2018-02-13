@@ -50,3 +50,22 @@ li {
 	padding: 20px;
 }
 
+.aboutMir {
+	font-family: 'Archivo Black', sans-serif;
+	color: #c6d3c2;
+	font-style: italic;
+	font-size: 100px;
+	opacity: .08;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	/* bring your own prefixes */
+	transform: translate(-50%, -50%);
+}
+
+#dev {
+	margin-bottom: -225px;
+	padding-left: 30px;
+}
+
+
