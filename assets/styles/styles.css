@@ -5,7 +5,7 @@ body {
 }
 
 #mainName {
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Cormorant', serif;
 	font-size: 80px;
 	/* color: #16608A; */
 	color: #FFFFFF;
@@ -59,7 +59,7 @@ li {
 	color: #000000;  
 	font-style: italic;
 	font-size: 100px;
-	opacity: .15;
+	opacity: .20;
 	position: fixed;
 	top: 50%;
 	left: 50%;
