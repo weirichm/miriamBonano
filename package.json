@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/weirichm/miriamBonano/issues"
   },
-  "homepage": "https://github.com/weirichm/miriamBonano#readme"
+  "homepage": "https://github.com/weirichm/miriamBonano#readme",
+  "dependencies": {
+    "hover.css": "^2.2.1"
+  }
 }

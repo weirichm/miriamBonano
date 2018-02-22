@@ -44,11 +44,9 @@ div.container1 a {
 	transform-origin: left top 0;
     /* font-family: helvetica; */
 	/* color: #16608A; */
-	/* color: #FFFFFF;  */
+	color: #FFFFFF; 
 	font-family: 'Antic', sans-serif;
-	-webkit-text-stroke-width: .5px;
-	-webkit-text-stroke-color: black;
-	font-size: 30px;
+	font-size: 17px;
 }
 
 li {
@@ -57,7 +55,7 @@ li {
 }
 
 li:hover {
-	color: white;
+	color: #6983ad;
 }
 
 
