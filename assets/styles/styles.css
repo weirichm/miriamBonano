@@ -108,10 +108,32 @@ li a:hover{
 	padding-left: 10px;
 }
 
+#dressed {
+	margin-bottom: -200px;
+  margin-left: -30px;
+  font-size: 120px;
+}
+
+#eggs {
+  padding-left: 150px;
+  font-size: 120px;
+}
+
+.egg {
+  padding-left: 200px;
+  text-decoration: none;
+  color: #000000;  
+}
+
+.egg:hover {
+  color:  white;
+}
+
 .aboutInfo {
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Cormorant', serif;
 	/* color: #16608A; */
-	color: white;  
+  color: white;  
+  font-size: 20px;
 	position: fixed;
 	top: 50%;
 	left: 50%;
