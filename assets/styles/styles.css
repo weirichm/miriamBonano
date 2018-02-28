@@ -36,17 +36,18 @@ div.container1 a {
   	transform: translate(-50%, -50%);
 }
 
-#currently a{
+#discover{
   float: right;
   margin-right: 10%;
   font-family: 'Nanum Gothic', sans-serif;
-  color: #FFFFFF; 
+  color: white; 
+  opacity: .5;
   text-decoration: none;
 }
 
-#currently a:hover {
+/* #currently a:hover {
 	color: #6983ad;
-}
+} */
 
 #currentMood {
   float: right;
@@ -129,11 +130,17 @@ li a:hover{
   color:  white;
 }
 
+#is {
+  font-family: 'Cormorant', serif;
+  margin-bottom: -28px;
+  font-size: 20px;
+}
+
 .aboutInfo {
-	font-family: 'Cormorant', serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	/* color: #16608A; */
   color: white;  
-  font-size: 20px;
+  font-size: 15px;
 	position: fixed;
 	top: 50%;
 	left: 50%;
