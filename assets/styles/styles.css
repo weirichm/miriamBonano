@@ -139,7 +139,7 @@ li a:hover{
 }
 
 
-p{ 
+/* p{ 
   padding:10px; 
   border-bottom: 1px #ccc dotted; 
   text-decoration: none; 
@@ -154,7 +154,7 @@ p{
 p:hover { 
   cursor:pointer; 
   background: #333; 
-  color:#eee; }
+  color:#eee; } */
 
 .tile img {
     max-width: 100%;
