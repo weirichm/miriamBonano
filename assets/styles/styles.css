@@ -54,8 +54,18 @@ li {
 	padding: 20px;
 }
 
+li a {
+  color: #FFFFFF;
+  font-family: 'Nanum Gothic', sans-serif;
+  text-decoration: none;
+}
+
 li:hover {
 	color: #6983ad;
+}
+
+li a:hover{
+  color: #6983ad;
 }
 
 
