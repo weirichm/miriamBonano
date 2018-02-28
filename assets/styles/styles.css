@@ -36,14 +36,15 @@ div.container1 a {
   	transform: translate(-50%, -50%);
 }
 
-#currently {
+#currently a{
   float: right;
   margin-right: 10%;
   font-family: 'Nanum Gothic', sans-serif;
   color: #FFFFFF; 
+  text-decoration: none;
 }
 
-#currently:hover {
+#currently a:hover {
 	color: #6983ad;
 }
 
@@ -126,6 +127,7 @@ li a:hover{
   position: relative;
   margin-top: -500px;
 }
+
 #portfolio {  
     margin: 1rem 0;
     -webkit-column-count: 3; 
@@ -213,6 +215,14 @@ p:hover {
 }
 
 /*current mood page*/
+.currently{
+  max-width: 900px;
+  float: none;
+  margin: auto; 
+  position: relative;
+  margin-top: -500px;
+}
+
 #currentMood {  
   margin: 1rem 0;
   -webkit-column-count: 2; 
