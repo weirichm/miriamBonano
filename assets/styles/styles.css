@@ -36,6 +36,17 @@ div.container1 a {
   	transform: translate(-50%, -50%);
 }
 
+#currently {
+  float: right;
+  margin-right: 10%;
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #FFFFFF; 
+}
+
+#currently:hover {
+	color: #6983ad;
+}
+
 .rotatedList {
 	font-family: 'Nanum Gothic', sans-serif;
 	/*position: absolute;*/
