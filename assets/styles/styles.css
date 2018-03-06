@@ -167,13 +167,14 @@ div.aboutMir {
 	transform: translate(-50%, -50%);
 }
 
-.ProjectTitle {
+/* .ProjectTitle {
   font-family: 'Archivo Black', sans-serif;
   color: #000000;  
 	font-style: italic;
 	font-size: 25px;
-	opacity: .50;
-}
+  opacity: .50;
+  text-decoration: none;
+} */
 
 #ProjectInfo {
   font-family: 'Nanum Gothic', sans-serif;
@@ -187,12 +188,20 @@ div.aboutMir {
 	transform: translate(-50%, -50%);
 }
 
-#visit {
-  color: white; 
+#Project {
+  font-family: 'Archivo Black', sans-serif;
+  color: #000000;  
+	font-style: italic;
+	font-size: 40px;
   opacity: .50;
-  font-style: italic;
-  font-size: 23px;
-  font-family: 'Cormorant', serif;
+}
+
+#Project:hover {
+  font-family: 'Archivo Black', sans-serif;
+  color: white;  
+	font-style: italic;
+	font-size: 40px;
+  opacity: .50;
 }
 
 #visit:hover {
