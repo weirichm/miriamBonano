@@ -324,3 +324,25 @@ p:hover {
   -moz-column-width: 50%;
   column-width: 50%;
 }
+
+footer {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: white; 
+  font-size: 13px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  bottom: 20px;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #6983ad;
+  text-decoration: none;
+} 
+
+.meLinks {
+  text-decoration: none;
+  color: white; 
+}
