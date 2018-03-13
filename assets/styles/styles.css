@@ -141,7 +141,7 @@ div.aboutMir {
 
 .egg {
   padding-left: 200px;
-  text-decoration: none;
+  text-decoration: underline;
   color: #000000;  
 }
 
