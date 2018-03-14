@@ -1,0 +1,22 @@
+{
+  "name": "miriambonano",
+  "version": "1.0.0",
+  "description": "COMING SOON!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirichm/miriamBonano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weirichm/miriamBonano/issues"
+  },
+  "homepage": "https://github.com/weirichm/miriamBonano#readme",
+  "dependencies": {
+    "animate.css": "^3.6.1"
+  }
+}
